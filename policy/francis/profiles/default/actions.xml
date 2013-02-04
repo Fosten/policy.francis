@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<object name="portal_actions" meta_type="Plone Actions Tool"
+   xmlns:i18n="http://xml.zope.org/namespaces/i18n">
+ <object name="portal_tabs" meta_type="CMF Action Category">
+  <property name="title"></property>
+  <object name="index_html" meta_type="CMF Action" i18n:domain="plone">
+   <property name="title" i18n:translate="">Home</property>
+   <property name="description" i18n:translate=""></property>
+   <property name="url_expr">string:${globals_view/navigationRootUrl}</property>
+   <property name="link_target"></property>
+   <property name="icon_expr"></property>
+   <property name="available_expr"></property>
+   <property name="permissions">
+    <element value="View"/>
+   </property>
+   <property name="visible">False</property>
+  </object>
+  <object name="about-us" meta_type="CMF Action" i18n:domain="plone">
+   <property name="title" i18n:translate="">About Us</property>
+   <property name="description" i18n:translate=""></property>
+   <property name="url_expr">string:$portal_url/about-us</property>
+   <property name="link_target"></property>
+   <property name="icon_expr"></property>
+   <property name="available_expr"></property>
+   <property name="permissions">
+    <element value="View"/>
+   </property>
+   <property name="visible">True</property>
+  </object>
+  <object name="admissions" meta_type="CMF Action" i18n:domain="plone">
+   <property name="title" i18n:translate="">Admissions</property>
+   <property name="description" i18n:translate=""></property>
+   <property name="url_expr">string:$portal_url/admissions</property>
+   <property name="link_target"></property>
+   <property name="icon_expr"></property>
+   <property name="available_expr"></property>
+   <property name="permissions">
+    <element value="View"/>
+   </property>
+   <property name="visible">True</property>
+  </object>
+  <object name="academics" meta_type="CMF Action" i18n:domain="plone">
+   <property name="title" i18n:translate="">Academics</property>
+   <property name="description" i18n:translate=""></property>
+   <property name="url_expr">string:$portal_url/academics</property>
+   <property name="link_target"></property>
+   <property name="icon_expr"></property>
+   <property name="available_expr"></property>
+   <property name="permissions">
+    <element value="View"/>
+   </property>
+   <property name="visible">True</property>
+  </object>
+  <object name="campus-life" meta_type="CMF Action" i18n:domain="plone">
+   <property name="title" i18n:translate="">Campus Life</property>
+   <property name="description" i18n:translate=""></property>
+   <property name="url_expr">string:$portal_url/campus-life</property>
+   <property name="link_target"></property>
+   <property name="icon_expr"></property>
+   <property name="available_expr"></property>
+   <property name="permissions">
+    <element value="View"/>
+   </property>
+   <property name="visible">True</property>
+  </object>
+  <object name="athletics" meta_type="CMF Action" i18n:domain="plone">
+   <property name="title" i18n:translate="">Athletics</property>
+   <property name="description" i18n:translate=""></property>
+   <property name="url_expr">string:$portal_url/athletics</property>
+   <property name="link_target"></property>
+   <property name="icon_expr"></property>
+   <property name="available_expr"></property>
+   <property name="permissions">
+    <element value="View"/>
+   </property>
+   <property name="visible">True</property>
+  </object>
+  <object name="alumni-and-friends" meta_type="CMF Action" i18n:domain="plone">
+   <property name="title" i18n:translate="">Alumni and Friends</property>
+   <property name="description" i18n:translate=""></property>
+   <property name="url_expr">string:$portal_url/alumni-and-friends</property>
+   <property name="link_target"></property>
+   <property name="icon_expr"></property>
+   <property name="available_expr"></property>
+   <property name="permissions">
+    <element value="View"/>
+   </property>
+   <property name="visible">True</property>
+  </object>
+  <object name="faith-and-franciscanism" meta_type="CMF Action" i18n:domain="plone">
+   <property name="title" i18n:translate="">Faith and Franciscanism</property>
+   <property name="description" i18n:translate=""></property>
+   <property name="url_expr">string:$portal_url/faith-and-franciscanism</property>
+   <property name="link_target"></property>
+   <property name="icon_expr"></property>
+   <property name="available_expr"></property>
+   <property name="permissions">
+    <element value="View"/>
+   </property>
+   <property name="visible">True</property>
+  </object>  
+ </object>
+</object>

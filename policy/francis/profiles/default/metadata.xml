@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<metadata>
+    <version>1</version>
+        <dependencies>
+            <dependency>profile-plonetheme.francis:default</dependency>
+            <dependency>profile-Products.PloneFormGen:default</dependency>
+            <dependency>profile-Products.RedirectionTool:default</dependency>
+            <dependency>profile-Products.FacultyStaffDirectory:default</dependency>
+            <dependency>profile-collective.plonetruegallery:default</dependency>
+            <dependency>profile-Products.BlingPortlet:default</dependency>
+            <dependency>profile-Products.ContentWellPortlets:default</dependency>
+        </dependencies>
+</metadata>
