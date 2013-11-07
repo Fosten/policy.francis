@@ -9,5 +9,6 @@
             <dependency>profile-collective.plonetruegallery:default</dependency>
             <dependency>profile-Products.BlingPortlet:default</dependency>
             <dependency>profile-Products.ContentWellPortlets:default</dependency>
+            <dependency>profile-collective.easyslider:default</dependency>
         </dependencies>
 </metadata>

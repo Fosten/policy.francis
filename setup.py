@@ -33,6 +33,7 @@ setup(name='policy.francis',
       'collective.plonetruegallery',
       'Products.BlingPortlet',
       'Products.ContentWellPortlets',
+      'collective.easyslider',
       ],
     entry_points="""
       # -*- Entry points: -*-
