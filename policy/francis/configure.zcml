@@ -12,7 +12,7 @@
         name="default"
         title="francis policy"
         directory="profiles/default"
-        description="Installs the 'policy.francis' Plone policy."
+        description="Installs the 'francis policy' Plone policy."
         provides="Products.GenericSetup.interfaces.EXTENSION" />
 
 </configure>
