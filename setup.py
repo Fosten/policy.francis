@@ -6,8 +6,7 @@ version = '1.0'
 setup(name='policy.francis',
     version=version,
     description="francis policy",
-    long_description=open("README.txt").read() + "\n" +
-                     open("CHANGES.txt").read(),
+    long_description=open("README.txt").read(),
     # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
       "Framework :: Plone",
@@ -15,9 +14,9 @@ setup(name='policy.francis',
       "Topic :: Software Development :: Libraries :: Python Modules",
       ],
     keywords='',
-    author='WebLion Group, Penn State University',
-    author_email='support@weblion.psu.edu',
-    url='http://weblion.psu.edu/',
+    author='Brian Davis, Saint Francis University',
+    author_email='marketing@francis.edu',
+    url='http://francis.edu',
     license='GPL',
     packages=find_packages(exclude=['ez_setup']),
     namespace_packages=['policy'],
