@@ -33,6 +33,7 @@ setup(name='policy.francis',
       'Products.BlingPortlet',
       'Products.ContentWellPortlets',
       'collective.easyslider',
+      'webcouturier.dropdownmenu',
       ],
     entry_points="""
       # -*- Entry points: -*-

@@ -10,5 +10,6 @@
             <dependency>profile-Products.BlingPortlet:default</dependency>
             <dependency>profile-Products.ContentWellPortlets:default</dependency>
             <dependency>profile-collective.easyslider:default</dependency>
+            <dependency>profile-webcouturier.dropdownmenu:default</dependency>
         </dependencies>
 </metadata>
