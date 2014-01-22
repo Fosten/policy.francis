@@ -11,5 +11,7 @@
             <dependency>profile-Products.ContentWellPortlets:default</dependency>
             <dependency>profile-collective.easyslider:default</dependency>
             <dependency>profile-webcouturier.dropdownmenu:default</dependency>
+            <dependency>profile-collective.disqus:default</dependency>
+            <dependency>profile-sc.social.like:default</dependency>
         </dependencies>
 </metadata>

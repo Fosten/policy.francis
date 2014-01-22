@@ -34,6 +34,8 @@ setup(name='policy.francis',
       'Products.ContentWellPortlets',
       'collective.easyslider',
       'webcouturier.dropdownmenu',
+      'collective.disqus',
+      'sc.social.like',
       ],
     entry_points="""
       # -*- Entry points: -*-
