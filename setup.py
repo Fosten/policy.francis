@@ -25,6 +25,7 @@ setup(name='policy.francis',
     install_requires=[
       'setuptools',
       # -*- Extra requirements: -*-
+      'plone.app.contenttypes',
       'plonetheme.francis',
       'Products.PloneFormGen',
       'Products.RedirectionTool',
@@ -32,9 +33,7 @@ setup(name='policy.francis',
       'collective.plonetruegallery',
       'Products.BlingPortlet',
       'Products.ContentWellPortlets',
-      'collective.easyslider',
       'webcouturier.dropdownmenu',
-      'collective.disqus',
       'sc.social.like',
       ],
     entry_points="""
