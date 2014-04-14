@@ -6,9 +6,7 @@
             <dependency>profile-plonetheme.francis:default</dependency>
             <dependency>profile-Products.PloneFormGen:default</dependency>
             <dependency>profile-Products.RedirectionTool:default</dependency>
-            <dependency>profile-Products.FacultyStaffDirectory:default</dependency>
             <dependency>profile-collective.plonetruegallery:default</dependency>
-            <dependency>profile-Products.BlingPortlet:default</dependency>
             <dependency>profile-Products.ContentWellPortlets:default</dependency>
             <dependency>profile-webcouturier.dropdownmenu:default</dependency>
             <dependency>profile-sc.social.like:default</dependency>
